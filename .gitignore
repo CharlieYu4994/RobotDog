@@ -1,0 +1,11 @@
+.idea
+.DS*
+.git
+.vscode
+template/package-lock.json
+template/node_modules
+desktop/package-lock.json
+desktop/node_modules
+desktop/dist
+desktop/build/*
+!desktop/build/icons
